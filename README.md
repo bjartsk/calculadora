@@ -19,7 +19,7 @@
 ---
 ## Sobre o projeto 
 
-A partir do projeto desenvolvido no curso [Javascript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas), ministrado pela instrutora [Vanessa](https://www.linkedin.com/in/vanessametonini/) na plataforma [Alura](https://www.alura.com.br/), foram feitas algumas modificações no HTML e no JS para transformar o então [Midi]() em uma calculadora com as funcionalidades básicas.
+A partir do projeto desenvolvido no curso [Javascript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas), ministrado pela instrutora [Vanessa](https://www.linkedin.com/in/vanessametonini/) na plataforma [Alura](https://www.alura.com.br/), foram feitas algumas modificações no HTML e no JS para transformar o então [Midi](https://github.com/bjartsk/alura-midi) em uma calculadora com as funcionalidades básicas.
 
 ## Conhecimentos adquiridos
 - Método `eval()` para calcular expressões em uma string;
